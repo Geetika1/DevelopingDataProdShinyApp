@@ -16,3 +16,9 @@ It takes the following inputs:
 Displays the following output:
 -All the inputs
 -Whether the user is at a risk for a heart disease or not
+
+To run the app:
+
+Copy the files in your area.
+Run the app
+You should be able to see the output on your screen
