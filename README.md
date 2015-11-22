@@ -2,6 +2,8 @@
 
 Developing Data Products Assignment
 
+The app can be found here: https://geetika1.shinyapps.io/shinyapp
+
 This App calculates whether a user is at a risk or not based on the inputs provided
 
 It takes the following inputs:
